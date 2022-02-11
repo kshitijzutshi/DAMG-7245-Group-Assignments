@@ -21,3 +21,11 @@ Asking the following questions -
 Login Using a Google account to access the codelab below
 
 Run the [CodeLab Live Here](https://codelabs-preview.appspot.com/?file_id=1PctEbzkwbyFJlADhzmLieD-Jzh-_xK5x-QO1SedG3xY#7) :rocket:
+
+### Team Member
+
+| NUID | Team Member       |
+|:-----:|---------------|
+| 001021288    | Kshitij Zutshi |
+| 001524484      | Priyanka Dilip Shinde              |
+| 002114630      | Dwithika Shetty              |
