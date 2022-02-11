@@ -16,3 +16,8 @@ Asking the following questions -
 2. What was the Age-to-Sex distribution for all events in the data?
 3. What were the most occurring event types in the data?
 4. What was the Geo-Location distribution of Indirect and Direct injuries in the data?
+
+### Run CodeLabs
+Login Using a Google account to access the codelab below
+
+Run the [CodeLab Live Here](https://codelabs-preview.appspot.com/?file_id=1PctEbzkwbyFJlADhzmLieD-Jzh-_xK5x-QO1SedG3xY#7) :rocket:
